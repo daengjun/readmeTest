@@ -1,8 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <!-- 여기 숫자만 줄이면 이미지가 확실히 작아짐 -->
-      <img src="app/src/main/assets/DB.png" width="220" />
+      <img src="app/src/main/assets/DB.png" width="300" />
     </td>
     <td valign="top" style="padding-left:18px;">
       1. <b>id</b> - 메모의 아이디 (PK)<br/>
